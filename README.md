@@ -13,5 +13,5 @@ This project uses machine learning techniques to recommend movies based on user 
 ## Usage
 Clone the repository and run:
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
